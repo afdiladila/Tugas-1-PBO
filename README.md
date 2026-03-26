@@ -1,4 +1,5 @@
-Studi Kasus Analisis dan Implementasi Sistem Berbasis Objek
+Studi Kasus Analisis dan Implementasi Sistem Pemrograman Berbasis Objek
+
 Program Pendaftaran Magang Mahasiswa
 
 Disusun oleh:
