@@ -48,6 +48,7 @@ public class Main {
                     System.out.print("ID Perusahaan     : "); String idP = sc.nextLine();
                     System.out.print("Nama Perusahaan   : "); String namaP = sc.nextLine();
                     System.out.print("Alamat Perusahaan : "); String alamatP = sc.nextLine();
+                    
 
                     System.out.println("\n====================================");
                     System.out.println("       INPUT DETAIL MAGANG          ");
