@@ -189,6 +189,3 @@ Sistem akan dilengkapi dengan mekanisme autentikasi untuk membedakan akses antar
 **Pencarian dan Filter Data:**
 Fitur pencarian akan memudahkan pengguna untuk menemukan pendaftaran tertentu berdasarkan berbagai kriteria seperti nama mahasiswa, jurusan, posisi yang dilamar, atau status pendaftaran. Filter data akan membantu admin dalam mengelola pendaftaran, misalnya menampilkan semua pendaftaran yang masih berstatus "Menunggu Review" untuk diproses lebih lanjut.
 
-
-Berikut adalah representasi class diagram dalam bentuk teks yang menggambarkan struktur kelas dan hubungan antar kelas dalam sistem:
-
